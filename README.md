@@ -54,7 +54,7 @@ I have a background as a wet biologist, but at a certain point, I found myself d
   This platform offers numerous courses for DevOps and Data Scientists. What I appreciate about this source is that it includes genuinely challenging exercises. By solving them, you gain a deep 
   understanding of the material. However, this can also be a drawback, especially during busy work periods when you may not want to invest a significant amount of time in acquiring a new skill.
 
-The courses I have completed on this platform include:
+  The courses I have completed on this platform include:
   - Python programming ([https://stepik.org/course/67/syllabus])
   - Introduction to Linux ([https://stepik.org/course/73/])
   - The basics of statistics.Part 1 ([https://stepik.org/course/76/syllabus])
