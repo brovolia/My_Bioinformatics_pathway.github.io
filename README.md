@@ -55,16 +55,16 @@ I have a background as a wet biologist, but at a certain point, I found myself d
   understanding of the material. However, this can also be a drawback, especially during busy work periods when you may not want to invest a significant amount of time in acquiring a new skill.
 
 The courses I have completed on this platform include:
-  -Python programming ([https://stepik.org/course/67/syllabus])
-  -Introduction to Linux ([https://stepik.org/course/73/])
-  -The basics of statistics.Part 1 ([https://stepik.org/course/76/syllabus])
-  -The basics of statistics.Part 2 ([https://stepik.org/course/524/syllabus])
-  -The basics of statistics.Part 3 ([https://stepik.org/course/2152/promo])
-  -Nanopore sequencing ([https://stepik.org/course/8092/syllabus])
-  -Git technology ([https://stepik.org/course/92718/])
-  -Introduction to NGS ([https://stepik.org/course/1142/syllabus])
-  -Docker for beginners ([https://stepik.org/course/123300/])
-  -Data analysis in R ([https://stepik.org/course/129/syllabus])
+  - Python programming ([https://stepik.org/course/67/syllabus])
+  - Introduction to Linux ([https://stepik.org/course/73/])
+  - The basics of statistics.Part 1 ([https://stepik.org/course/76/syllabus])
+  - The basics of statistics.Part 2 ([https://stepik.org/course/524/syllabus])
+  - The basics of statistics.Part 3 ([https://stepik.org/course/2152/promo])
+  - Nanopore sequencing ([https://stepik.org/course/8092/syllabus])
+  - Git technology ([https://stepik.org/course/92718/])
+  - Introduction to NGS ([https://stepik.org/course/1142/syllabus])
+  - Docker for beginners ([https://stepik.org/course/123300/])
+  - Data analysis in R ([https://stepik.org/course/129/syllabus])
 
 - DataCamp ([https://campus.datacamp.com/])
   This platform is primarily designed for data scientists and data analysts. The exercises are relatively straightforward, involving tasks such as filling in the gap with the correct command. 
@@ -128,6 +128,6 @@ Here is my curated list of useful YouTube channels
 [https://www.youtube.com/@zedstatistics] - good old statistics in simple words
 
 ## Books
-R for Data Science by Hadley Wickham - [https://r4ds.had.co.nz/]
-Python for Data Analysis by Wes McKinney - [https://wesmckinney.com/book/]
+- R for Data Science by Hadley Wickham - [https://r4ds.had.co.nz/]
+- Python for Data Analysis by Wes McKinney - [https://wesmckinney.com/book/]
 
