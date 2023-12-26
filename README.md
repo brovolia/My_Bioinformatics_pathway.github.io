@@ -123,7 +123,6 @@ Here is my curated list of useful YouTube channels
 - [https://www.youtube.com/@RVideoTutorials] - Data Science tutorials
 - [https://www.youtube.com/@daveebbelaar] - Tips and tricks from Data Scientist
 - [https://www.youtube.com/@IRONPROGRAMMER] - (on Russian) The guy write on C++ but gives a bunch of useful information regarding programming processes
-- [https://www.youtube.com/@daveebbelaar] - Tips and tricks from Data Scientist
 - [https://www.youtube.com/@nf-core] - byte-size talks and conference videos from nf-core community
 - [https://www.youtube.com/@zedstatistics] - good old statistics in simple words
 
