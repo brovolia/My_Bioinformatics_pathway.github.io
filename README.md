@@ -45,7 +45,7 @@ I have a background as a wet biologist, but at a certain point, I found myself d
   I have participated in both courses. The biostatistics part was well-balanced and coherent. However, the NGS intensive course felt somewhat cluttered, as if the authors aimed to include as 
   much information as possible, resulting in an overloaded experience.
   
-- Machine Learning summer school. Bumblekite ([https://bioinf.me/education/stat](https://www.bumblekite.co/summer-school-23]). 
+- Machine Learning summer school. Bumblekite ([https://www.bumblekite.co/summer-school-23]). 
   This course is ideal for beginners in machine learning, offering practical courses in various fields of ML applications. While lacking a deep dive into theory, what sets this course apart is 
   the organizers' initiative to invite numerous top specialists in the field. These experts shared their life stories, providing inspiration and helping me clarify my career path.
   
