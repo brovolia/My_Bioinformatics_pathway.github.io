@@ -70,20 +70,20 @@ The courses I have completed on this platform include:
   This platform is primarily designed for data scientists and data analysts. The exercises are relatively straightforward, involving tasks such as filling in the gap with the correct command. 
   This approach enables students to quickly immerse themselves in the programming environment.
   The courses I have completed on this platform include:
-  - Intermediate R
-  - Writing efficient R code
-  - Object-Oriented Programming with S3 and R6 in R
-  - Introduction to Python
-  - Intermediate Python
-  - Introduction to Tidyverse
-  - Data Communication Concepts
-  - Intermediate Importing Data in R
-  - Introduction to Regression in R
-  - Python Data Science Toolbox (Part 1)
-  - Python Data Science Toolbox (Part 2)
-  - Supervised Learning with scikit-learn
-  - Unsupervised Learning in Python
-  - Linear Classifiers in Python
+   - Intermediate R
+   - Writing efficient R code
+   - Object-Oriented Programming with S3 and R6 in R
+   - Introduction to Python
+   - Intermediate Python
+   - Introduction to Tidyverse
+   - Data Communication Concepts
+   - Intermediate Importing Data in R
+   - Introduction to Regression in R
+   - Python Data Science Toolbox (Part 1)
+   - Python Data Science Toolbox (Part 2)
+   - Supervised Learning with scikit-learn
+   - Unsupervised Learning in Python
+   - Linear Classifiers in Python
  
 - Rosalind ([https://rosalind.info/problems/locations/])
   This platform serves as an excellent portal for hands-on learning of Python and principles in the field of bioinformatics analysis. It covers various topics, including genome assembly, genome 
