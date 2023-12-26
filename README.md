@@ -101,21 +101,21 @@ I have a background as a wet biologist, but at a certain point, I found myself d
 ### Telegram channels
 Telegram channels serve as an excellent source for staying informed about the latest news in the field. Additionally, I occasionally seek expertise on these channels and typically find the assistance I need.
 I follow these channels. They all are on Russian:
-[https://t.me/drmgreen]
-[https://t.me/sci_fyi]
-[https://t.me/sberlogabio]
-[https://t.me/liza_loves_biology]
-[https://t.me/rlang_ru]
-[https://t.me/deep_learners]
-[https://t.me/bioinf_career]
-[https://t.me/r_in_action]
+- [https://t.me/drmgreen]
+- [https://t.me/sci_fyi]
+- [https://t.me/sberlogabio]
+- [https://t.me/liza_loves_biology]
+- [https://t.me/rlang_ru]
+- [https://t.me/deep_learners]
+- [https://t.me/bioinf_career]
+- [https://t.me/r_in_action]
 
 ### Slack channels
 In a similar situation, there are numerous instances where you need to discuss difficulties, and such a messaging platform provides a great opportunity to do so.
 I follow these channels:
-[https://rfordatascience.slack.com]
-[https://nfcore.slack.com]
-[https://bitsinbio.slack.com]
+- [https://rfordatascience.slack.com]
+- [https://nfcore.slack.com]
+- [https://bitsinbio.slack.com]
 
 ### YouTube channels
 Here is my curated list of useful YouTube channels
